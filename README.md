@@ -1,6 +1,5 @@
-# portfolio
+# Personal Portfolio
 
-# Tech Stack:
-## HTML, CSS, JavaScript
+### Tech Stack:
+#### HTML, CSS, JavaScript
 
-Personal Portfolio
